@@ -1,0 +1,33 @@
+C:\Materials\3 godina\3-3\Recepti\Recepti\bin\Debug\Recepti.exe.config
+C:\Materials\3 godina\3-3\Recepti\Recepti\obj\Debug\Recepti.csprojResolveAssemblyReference.cache
+C:\Materials\3 godina\3-3\Recepti\Recepti\obj\Debug\Recepti.Properties.Resources.resources
+C:\Materials\3 godina\3-3\Recepti\Recepti\obj\Debug\Recepti.csproj.GenerateResource.Cache
+C:\Materials\3 godina\3-3\Recepti\Recepti\bin\Debug\Recepti.exe
+C:\Materials\3 godina\3-3\Recepti\Recepti\bin\Debug\Recepti.pdb
+C:\Materials\3 godina\3-3\Recepti\Recepti\obj\Debug\Recepti.Forms.ReceptList.resources
+C:\Materials\3 godina\3-3\Recepti\Recepti\obj\Debug\Recepti.exe
+C:\Materials\3 godina\3-3\Recepti\Recepti\obj\Debug\Recepti.pdb
+C:\Materials\3 godina\3-3\Recepti\Recepti\obj\Debug\Recepti.Forms.LoginForma.resources
+C:\Users\norosic\Desktop\Recepti\Recepti\bin\Debug\Recepti.exe.config
+C:\Users\norosic\Desktop\Recepti\Recepti\bin\Debug\Recepti.exe
+C:\Users\norosic\Desktop\Recepti\Recepti\bin\Debug\Recepti.pdb
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.csproj.AssemblyReference.cache
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.Forms.LoginForma.resources
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.Forms.ReceptList.resources
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.Properties.Resources.resources
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.csproj.GenerateResource.cache
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.csproj.CoreCompileInputs.cache
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.exe
+C:\Users\norosic\Desktop\Recepti\Recepti\obj\Debug\Recepti.pdb
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.csproj.AssemblyReference.cache
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.Forms.LoginForma.resources
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.Forms.ReceptList.resources
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.Properties.Resources.resources
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.csproj.GenerateResource.cache
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.exe
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.pdb
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\bin\Debug\Recepti.exe.config
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\bin\Debug\Recepti.exe
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\bin\Debug\Recepti.pdb
