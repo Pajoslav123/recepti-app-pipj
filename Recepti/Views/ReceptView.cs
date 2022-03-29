@@ -31,6 +31,7 @@ namespace Recepti.Views
             ReceptDetailView r = new ReceptDetailView();
             r.Show();
         }
+
         public ReceptView(Recept model, Point location)
         {
             this.model = model;

@@ -21,15 +21,18 @@ namespace Recepti.Forms
         private TextBox txtOpis = new TextBox();
         private Button btnExit = new Button();
         private Button btnSave = new Button();
-        public CreateReceptForm()
+        private ReceptList parent;
+        
+        public CreateReceptForm(ReceptList p)
         {
+            parent = p;
             InitializeComponent();
             initView();
         }
 
         public void initView()
         {
-            Size = new Size(400, 800);
+            Size = new Size(400, 600);
 
             lblNaziv.Text = "Naziv";
             lblNaziv.AutoSize = true;
@@ -41,7 +44,7 @@ namespace Recepti.Forms
             Controls.Add(txtNaziv);
 
             txtOpis.Location = new Point(40, 220);
-            txtOpis.Size = new Size(200, 400);
+            txtOpis.Size = new Size(200, 300);
             txtOpis.Multiline = true;
             Controls.Add(txtOpis);
 
@@ -65,6 +68,7 @@ namespace Recepti.Forms
             Controls.Add(lblOpis);
 
             btnSave.Text = "Save";
+            btnSave.Click += btnSave_Click;
             btnSave.Location = new Point(ClientRectangle.Width / 2, ClientRectangle.Height - 30);
             Controls.Add(btnSave);
 
@@ -77,7 +81,9 @@ namespace Recepti.Forms
         private void btnSave_Click(object sender, EventArgs e)
         {
             Recept r = new Recept(txtNaziv.Text, txtOpis.Text, cbTip.Text, Util.logovaniKorisnik);
-            this.Refresh();
+            Util.recepti.Add(r);
+            parent.displayRecept(true);
+            
         }
 
         private void btnExit_Click(object sender, EventArgs e)

@@ -64,19 +64,35 @@ namespace Recepti.Forms
             ReceptContainer.Location = new Point(50, 100);
             ReceptContainer.AutoScroll = true;
             Controls.Add(ReceptContainer);
+
+            displayRecept(false);
+        }
+        public void displayRecept(bool naknadno)
+        {
+            ReceptContainer.Controls.Clear();
             int y=0;
             int spacing = 20;
 
-            foreach(Recept r in Util.recepti)
+            foreach (Recept r in Util.recepti)
             {
-                ReceptView view = new ReceptView(r, new Point(100, y+spacing));
+                ReceptView view = new ReceptView(r, new Point(100, y + spacing));
                 ReceptContainer.Controls.Add(view);
                 y += view.Height + spacing;
-                
+
             }
 
-        }
+            if (naknadno)
+            {
+                foreach(Recept r in Util.recepti)
+                {
+                    y += 60;
+                }
+                ReceptContainer.Controls.Add(new ReceptView(Util.recepti.Last(), new Point(100, y)));
+            }
 
+                
+
+        }
         private void LoginBtn_Click(object sender, EventArgs e)
         {
             LoginForma form = new LoginForma(this);
@@ -93,7 +109,7 @@ namespace Recepti.Forms
         }
         private void CreateRecept_Click(object sender, EventArgs e)
         {
-            CreateReceptForm crf = new CreateReceptForm();
+            CreateReceptForm crf = new CreateReceptForm(this);
             crf.Show();
         }
         public void logovanjeUspesno()

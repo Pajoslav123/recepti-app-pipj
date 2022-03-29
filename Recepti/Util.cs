@@ -1,4 +1,5 @@
 ﻿using Recepti.Model;
+using Recepti.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,7 +28,7 @@ namespace Recepti
 
             //return registrovaniKorisnici.Find(k => { return k.KorisnickoIme.Equals(username) && k.Sifra.Equals(password); }) != null;
         }
-
+       
         public static void logout()
         {
             logovaniKorisnik = null;

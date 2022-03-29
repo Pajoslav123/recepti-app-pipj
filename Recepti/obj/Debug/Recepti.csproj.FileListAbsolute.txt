@@ -37,3 +37,4 @@ C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.cs
 C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.exe
 C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.pdb
 C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.Forms.CreateReceptForm.resources
+C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.Forms.CreateReceptForm.resources
