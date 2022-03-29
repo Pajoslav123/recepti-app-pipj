@@ -1,6 +1,7 @@
-﻿namespace Recepti.Forms
+﻿
+namespace Recepti.Forms
 {
-    partial class LoginForma
+    partial class CreateReceptForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,15 +31,14 @@
         {
             this.SuspendLayout();
             // 
-            // LoginForma
+            // CreateReceptForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(212, 206);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.Name = "LoginForma";
-            this.Text = "LoginForma";
-            this.Load += new System.EventHandler(this.LoginForma_Load);
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "CreateReceptForm";
+            this.Text = "CreateReceptForm";
+            this.Load += new System.EventHandler(this.CreateReceptForm_Load);
             this.ResumeLayout(false);
 
         }

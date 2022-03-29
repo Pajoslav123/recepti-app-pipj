@@ -23,3 +23,17 @@ C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.csproj.CoreComp
 C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.exe
 C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.pdb
 C:\Users\Pavle\Desktop\Recepti\Recepti\Recepti\obj\Debug\Recepti.Views.ReceptDetailView.resources
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\bin\Debug\Recepti.exe.config
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\bin\Debug\Recepti.exe
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\bin\Debug\Recepti.pdb
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.csproj.AssemblyReference.cache
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.Forms.LoginForma.resources
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.Forms.ReceptList.resources
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.Properties.Resources.resources
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.test.resources
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.Views.ReceptDetailView.resources
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.csproj.GenerateResource.cache
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.csproj.CoreCompileInputs.cache
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.exe
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.pdb
+C:\Users\pmaodus\Desktop\receptigi\recepti-app-pipj\Recepti\obj\Debug\Recepti.Forms.CreateReceptForm.resources

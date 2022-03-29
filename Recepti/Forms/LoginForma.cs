@@ -71,5 +71,10 @@ namespace Recepti.Forms
                 MessageBox.Show("Pogresni kredencijali");
             }
         }
+
+        private void LoginForma_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

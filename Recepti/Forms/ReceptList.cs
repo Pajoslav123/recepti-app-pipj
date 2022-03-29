@@ -16,6 +16,7 @@ namespace Recepti.Forms
     {
         private Button LoginBtn = new Button();
         private Button LogoutBtn = new Button();
+        private Button CreateRecept = new Button();
         private Label LogovanUserLbl = new Label();
         private Panel ReceptContainer = new Panel();
 
@@ -33,6 +34,14 @@ namespace Recepti.Forms
         private void InitView()
         {
             this.ClientSize = new Size(800,600);
+
+            CreateRecept.Text = "Kreiraj recept";
+            CreateRecept.Top = 50;
+            CreateRecept.Left = 650;
+            CreateRecept.Hide();
+            CreateRecept.Click += CreateRecept_Click;
+            Controls.Add(CreateRecept);
+            
 
             LoginBtn.Text = "Login";
             LoginBtn.Top = 50; 
@@ -79,15 +88,21 @@ namespace Recepti.Forms
             Util.logout();
             LogoutBtn.Hide();
             LoginBtn.Show();
+            CreateRecept.Hide();
             LogovanUserLbl.Text = "";
         }
-
+        private void CreateRecept_Click(object sender, EventArgs e)
+        {
+            CreateReceptForm crf = new CreateReceptForm();
+            crf.Show();
+        }
         public void logovanjeUspesno()
         {
             if (Util.logovaniKorisnik != null)
             {
                 LogovanUserLbl.Text = "Dobrodosli " + Util.logovaniKorisnik.Ime + " " + Util.logovaniKorisnik.Prezime;
                 LoginBtn.Hide();
+                CreateRecept.Show();
                 LogoutBtn.Show();
             }
         }
